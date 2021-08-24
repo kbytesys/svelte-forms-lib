@@ -34,7 +34,7 @@
   "module": "./build/index.mjs",
   "license": "MIT",
   "dependencies": {
-    "property-expr": "2.0.2",
+    "property-expr": "2.0.3",
     "svelte": "3.16.5"
   },
   "devDependencies": {
