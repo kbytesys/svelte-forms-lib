@@ -35,7 +35,7 @@
   "license": "MIT",
   "dependencies": {
     "property-expr": "2.0.2",
-    "svelte": "3.16.5"
+    "svelte": "3.49.0"
   },
   "devDependencies": {
     "@types/chance": "1.0.6",
